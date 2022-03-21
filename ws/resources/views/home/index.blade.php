@@ -7,6 +7,6 @@
     <title>Première page Laravel</title>
 </head>
 <body>
-    <p>{{$messages}}</p>
+    <p>{{$user->email}}</p>
 </body>
 </html>
